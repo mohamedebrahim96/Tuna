@@ -3,4 +3,4 @@ tuna example
 --------------------------
 
 
-![Image of Git commands](images/Git-Cheat-Sheet-pdf-v2.png)
+![Image of Git commands](images/Git-commands-image.png)
