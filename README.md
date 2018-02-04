@@ -3,4 +3,4 @@ tuna example
 --------------------------
 
 
-this is dogs readme and branch
+![Image of Git commands](Git-Cheat-Sheet-pdf-v2.png)
