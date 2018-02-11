@@ -101,3 +101,7 @@ git rm -r --cached .
 git add .
 git commit -am "Remove ignored files"
 ====================================================
+
+
+gitClone: Get a working copy of the remote repository.
+git Pull: I am working on this, please get me the new changes that may be updated by others.
